@@ -1,0 +1,2 @@
+# springboot-canal-redis
+主要是springboot整合canal监听MySQL数据库，把数据同步到redis，可以自己定义缓存时间
